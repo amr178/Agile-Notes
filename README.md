@@ -7,4 +7,4 @@ The Agile notes app is a simple yet quick note taking  web application :
 - Added authentication
 
 
-![Screenshot](SS.png)
+![Screenshot](SS.PNG)
